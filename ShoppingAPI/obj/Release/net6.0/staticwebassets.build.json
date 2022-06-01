@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "N7gtglekeD/NM2GvdSFLy2miBfm8/GSZjbTN0kbrCpg=",
+  "Source": "ShoppingAPI",
+  "BasePath": "_content/ShoppingAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ShoppingAPI\\wwwroot",
+      "Source": "ShoppingAPI",
+      "ContentRoot": "C:\\Users\\mahida.muneeb\\source\\repos\\ShoppingAPI\\ShoppingAPI\\wwwroot\\",
+      "BasePath": "_content/ShoppingAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\mahida.muneeb\\source\\repos\\ShoppingAPI\\ShoppingAPI\\wwwroot\\Test.html",
+      "SourceId": "ShoppingAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mahida.muneeb\\source\\repos\\ShoppingAPI\\ShoppingAPI\\wwwroot\\",
+      "BasePath": "_content/ShoppingAPI",
+      "RelativePath": "Test.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Test.html"
+    }
+  ]
+}
